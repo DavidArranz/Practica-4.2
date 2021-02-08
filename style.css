@@ -1,0 +1,15 @@
+
+h1.centrado{
+    color: maroon;
+    text-align: center;
+   
+}
+p.centrado {
+    color: blueviolet;  
+    position: relative;
+    top: 50px;
+    right: 0;
+}
+.colordefondo {
+    background-color: navajowhite;
+}
