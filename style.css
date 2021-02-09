@@ -1,15 +1,27 @@
 
-h1.centrado{
-    color: maroon;
-    text-align: center;
-   
-}
-p.centrado {
-    color: blueviolet;  
-    position: relative;
-    top: 50px;
-    right: 0;
-}
 .colordefondo {
     background-color: navajowhite;
+}
+.centrado{
+    color: maroon;
+    text-align: center;
+    font-weight: 600;
+   
+}
+a.cafe {
+    position: relative;
+    top: 25px;
+    right: -300px;
+}
+
+a.contacto {  
+    position: relative;
+    top: 50px;
+    right: -700px;
+}
+.textolacarta {
+    color: darkred;
+}
+.textoelcafe {
+    color: red;
 }
