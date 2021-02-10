@@ -2,7 +2,7 @@
 .colordefondo {
     background-color: navajowhite;
 }
-.centrado{
+#centrado{
     color: maroon;
     text-align: center;
     font-weight: 600;
@@ -11,13 +11,13 @@
 a.cafe {
     position: relative;
     top: 25px;
-    right: 40%;
+    right: -43%;
 }
 
 a.contacto {  
     position: relative;
     top: 50px;
-    right: -700px;
+    right: -75%;
 }
 .textolacarta {
     color: darkred;
